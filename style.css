@@ -10,7 +10,8 @@ div.back{
     height:100vh;
     position:fixed;
     top:0px;
-    transition: all 0.5s;
+    transition: all 1s;
+    box-shadow: 20px  20px  20px rgba(0,0,0,0.5);
 }
 div.first-page{
     background:url("img/blue.jpg") center;
